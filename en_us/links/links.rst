@@ -561,3 +561,12 @@
 
 .. _edX Automated Communication Engine: http://edx-ace.readthedocs.io/en/latest
 
+.. _XQueue: https://github.com/edx/xqueue
+
+.. _edX XQueue repository: https://github.com/edx/xqueue/blob/master/queue
+
+.. _GnuPG website: https://www.gnupg.org
+
+.. _xqueue_watcher: https://github.com/edx/xqueue-watcher
+
+.. _Stanford Online xqueue_pull_ref: https://github.com/Stanford-Online/xqueue_pull_ref
